@@ -7,13 +7,9 @@ modificación del ejecutable del juego ni un mod para la carpeta mods.
 INSTALACIÓN
 
 1. Cierra el juego y cualquier launcher de Bloodborne que tengas abierto.
-2. Extrae TODOS los archivos de este ZIP dentro de la carpeta donde está
-   Bloodborne.exe. Allí deben quedar:
-
-   Iniciar-Bloodborne-DS3.bat
-
+2. Extrae TODOS los archivos de este ZIP dentro de la carpeta donde está Bloodborne.exe
 3. Ejecuta Iniciar-Bloodborne-DS3.bat.
-4. En la ventana del complemento, elige tu gpu en la lista de GPU.
+4. En la ventana del complemento, elige tu gpu en la lista de GPU. (Fix personal porque elegia la gpu incorrecta)
 5. Pulsa "Abrir launcher con este perfil", configura tu juego normalmente y
    pulsa PLAY. Si ya tienes todo configurado, puedes usar "Jugar directamente".
 6. Mantén abierto el complemento mientras juegas. Puedes minimizarlo.
