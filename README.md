@@ -11,8 +11,6 @@ INSTALACIÓN
    Bloodborne.exe. Allí deben quedar:
 
    Iniciar-Bloodborne-DS3.bat
-   ds3_controls (carpeta con bridge.py, control_logic.py y profile.ini)
-   LEEME.txt
 
 3. Ejecuta Iniciar-Bloodborne-DS3.bat.
 4. En la ventana del complemento, elige tu gpu en la lista de GPU.
