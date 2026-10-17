@@ -1,4 +1,4 @@
-# bbport-ds3Controls
+# bbport-BetterKBM
 Controles de dark souls 3 de teclado y mouse (kbm) para el port de pc de bloodborne creado por [deadinside28](https://github.com/deadinside28) PERO preparado para el fork de Supermedo https://github.com/Supermedo/bloodborne_pc  (USAR ESTE ULTIMO)
 
 Es un perfil con un pequeño complemento externo de controles. No es una
